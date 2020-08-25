@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\Users\honey\source\repos\Alg1\Alg1\Main.cpp(77,16): warning C4101: i: неиспользованная локальная переменная
+C:\Users\honey\source\repos\Alg1\Alg1\Main.cpp(91,19): warning C4101: i: неиспользованная локальная переменная
+C:\Users\honey\source\repos\Alg1\Alg1\Main.cpp(106,19): warning C4101: i: неиспользованная локальная переменная
+C:\Users\honey\source\repos\Alg1\Alg1\Arr.h(268,15): warning C4101: i: неиспользованная локальная переменная
+C:\Users\honey\source\repos\Alg1\Alg1\Arr.h(259): message : во время компиляции функции-члена класс шаблон "void Array<int>::Iterator::Check(void)"
+C:\Users\honey\source\repos\Alg1\Alg1\Main.cpp(96): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Array<int>::Iterator::Check(void)"
+C:\Users\honey\source\repos\Alg1\Alg1\Main.cpp(45): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Array<int>::Iterator"
+C:\Users\honey\source\repos\Alg1\Alg1\Arr.h(131): warning C4715: Array<int>::ChangeByPosition: значение возвращается не при всех путях выполнения
+C:\Users\honey\source\repos\Alg1\Alg1\Arr.h(109): warning C4715: Array<int>::ReadByVal: значение возвращается не при всех путях выполнения
+C:\Users\honey\source\repos\Alg1\Alg1\Arr.h(121): warning C4715: Array<int>::ReadByPosition: значение возвращается не при всех путях выполнения
+  Alg1.vcxproj -> C:\Users\honey\source\repos\Alg1\Debug\Alg1.exe
